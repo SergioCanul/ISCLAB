@@ -29,12 +29,3 @@ defineProps({
 </nav>
 
 </template>
-
-
-
-
-
-
-
-
-
